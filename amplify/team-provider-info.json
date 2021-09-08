@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-osstest-dev-92759-authRole",
+      "UnauthRoleArn": "arn:aws:iam::088987693321:role/amplify-osstest-dev-92759-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::088987693321:role/amplify-osstest-dev-92759-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-osstest-dev-92759-deployment",
+      "UnauthRoleName": "amplify-osstest-dev-92759-unauthRole",
+      "StackName": "amplify-osstest-dev-92759",
+      "StackId": "arn:aws:cloudformation:us-east-1:088987693321:stack/amplify-osstest-dev-92759/bc24bea0-10c1-11ec-a572-0e709ff1c6b9",
+      "AmplifyAppId": "d13nmizxrb9zjy"
+    },
+    "categories": {
+      "auth": {
+        "osstestd4f428a0": {}
+      }
+    }
+  }
+}
